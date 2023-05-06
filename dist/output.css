@@ -689,10 +689,6 @@ video {
   margin-top: 1.25rem;
 }
 
-.mt-0 {
-  margin-top: 0px;
-}
-
 .block {
   display: block;
 }
@@ -1006,16 +1002,8 @@ video {
   padding-top: 9rem;
 }
 
-.text-left {
-  text-align: left;
-}
-
 .text-center {
   text-align: center;
-}
-
-.text-justify {
-  text-align: justify;
 }
 
 .text-2xl {
@@ -1412,10 +1400,6 @@ body {
     padding-top: 2.5rem;
   }
 
-  .lg\:text-justify {
-    text-align: justify;
-  }
-
   .lg\:text-2xl {
     font-size: 1.5rem;
     line-height: 2rem;
@@ -1439,11 +1423,6 @@ body {
   .lg\:text-lg {
     font-size: 1.125rem;
     line-height: 1.75rem;
-  }
-
-  .lg\:text-sm {
-    font-size: 0.875rem;
-    line-height: 1.25rem;
   }
 
   .lg\:shadow-none {
